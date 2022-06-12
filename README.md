@@ -6,7 +6,6 @@
 
 <br/>
 <p align="left">
-  <a href="https://lia0wang.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=axel-klein&show_icons=true&theme=blueberry&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=axel-klein&theme=blueberry&hide_border=true" />
   </a>
